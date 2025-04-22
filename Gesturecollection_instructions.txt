@@ -1,0 +1,35 @@
+===============================
+  GESTURE DATA COLLECTION MAP
+===============================
+
+>>> STATIC GESTURES
+(Press the corresponding number key to capture a single-frame gesture)
+
+    1 - Compress
+    2 - Medical Thread on a Spool
+    3 - Medical Thread Loose
+    4 - Plier Backhaus
+    5 - Hemostatic Forceps
+    6 - Kelly Hemostatic Forceps
+
+>>> DYNAMIC GESTURES
+(Press the key to start recording a gesture. Each capture lasts for 25 frames.)
+
+    7 - Farabeuf Retractor
+    8 - Bistouri
+    9 - Needle Holder
+    a - Valve Doyen
+    b - Allis Clamp
+    c - Anatomical Tweezers
+    d - Rats Tooth Forceps
+    e - Scissors
+
+>>> OTHER CONTROLS
+
+    s - Start data collection
+    q - Quit application
+
+NOTE:
+- Make sure your hand is clearly visible in front of the camera.
+- Static gestures are captured instantly.
+- Dynamic gestures will record a sequence of 25 frames automatically once started.
