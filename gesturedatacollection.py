@@ -53,6 +53,7 @@ mp_drawing = mp.solutions.drawing_utils
 
 # Open camera
 cap = cv2.VideoCapture(0)
+print(cap.isOpened())
 gesture_display = ""
 
 print("Press TAB to toggle between static and dynamic modes.")
